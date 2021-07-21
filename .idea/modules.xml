@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATM/ATM.iml" filepath="$PROJECT_DIR$/ATM/ATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blackjack/Blackjack.iml" filepath="$PROJECT_DIR$/Blackjack/Blackjack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarRent/CarRent.iml" filepath="$PROJECT_DIR$/CarRent/CarRent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chess/Chess.iml" filepath="$PROJECT_DIR$/Chess/Chess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Circinfo/Circinfo.iml" filepath="$PROJECT_DIR$/Circinfo/Circinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deck/Deck.iml" filepath="$PROJECT_DIR$/Deck/Deck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Elevator/Elevator.iml" filepath="$PROJECT_DIR$/Elevator/Elevator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facebook/Facebook.iml" filepath="$PROJECT_DIR$/Facebook/Facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HotelManagement/HotelManagement.iml" filepath="$PROJECT_DIR$/HotelManagement/HotelManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryManagement/LibraryManagement.iml" filepath="$PROJECT_DIR$/LibraryManagement/LibraryManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedIn/LinkedIn.iml" filepath="$PROJECT_DIR$/LinkedIn/LinkedIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieTicketBooking/MovieTicketBooking.iml" filepath="$PROJECT_DIR$/MovieTicketBooking/MovieTicketBooking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOD.iml" filepath="$PROJECT_DIR$/OOD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnlineShopping/OnlineShopping.iml" filepath="$PROJECT_DIR$/OnlineShopping/OnlineShopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnlineStockBrokerage/OnlineStock_Brokerage.iml" filepath="$PROJECT_DIR$/OnlineStockBrokerage/OnlineStock_Brokerage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkingLot/ParkingLot.iml" filepath="$PROJECT_DIR$/ParkingLot/ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/Restaurant/Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackOverflow/StackOverflow.iml" filepath="$PROJECT_DIR$/StackOverflow/StackOverflow.iml" />
+    </modules>
+  </component>
+</project>
