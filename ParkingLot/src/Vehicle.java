@@ -1,13 +1,13 @@
-public class Bus extends Vehicle{
-    public Bus() {
-        super(VehicleSize.LARGE);
-// TODO Auto-generated constructor stub
-    }
-}
+public abstract class Vehicle {
+    private String licenseNumber;
+    private final VehicleType type;
+    private ParkingTicket ticket;
 
-package com.ds.algo.design;
-public class Car extends Vehicle{
-    public Car(){
-        super(VehicleSize.MEDIUM);
+    public Vehicle(VehicleType type) {
+        this.type = type;
+    }
+
+    public void assignTicket(ParkingTicket ticket) {
+        this.ticket = ticket;
     }
 }
